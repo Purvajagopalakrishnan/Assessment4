@@ -1,0 +1,14 @@
+C:\Users\purvajag\source\repos\EmployeeApi\EmployeeApi\bin\Debug\netcoreapp2.1\EmployeeApi.deps.json
+C:\Users\purvajag\source\repos\EmployeeApi\EmployeeApi\bin\Debug\netcoreapp2.1\EmployeeApi.runtimeconfig.json
+C:\Users\purvajag\source\repos\EmployeeApi\EmployeeApi\bin\Debug\netcoreapp2.1\EmployeeApi.runtimeconfig.dev.json
+C:\Users\purvajag\source\repos\EmployeeApi\EmployeeApi\bin\Debug\netcoreapp2.1\EmployeeApi.dll
+C:\Users\purvajag\source\repos\EmployeeApi\EmployeeApi\obj\Debug\netcoreapp2.1\EmployeeApi.csprojAssemblyReference.cache
+C:\Users\purvajag\source\repos\EmployeeApi\EmployeeApi\obj\Debug\netcoreapp2.1\EmployeeApi.csproj.CoreCompileInputs.cache
+C:\Users\purvajag\source\repos\EmployeeApi\EmployeeApi\obj\Debug\netcoreapp2.1\EmployeeApi.RazorAssemblyInfo.cache
+C:\Users\purvajag\source\repos\EmployeeApi\EmployeeApi\obj\Debug\netcoreapp2.1\EmployeeApi.RazorAssemblyInfo.cs
+C:\Users\purvajag\source\repos\EmployeeApi\EmployeeApi\obj\Debug\netcoreapp2.1\EmployeeApi.AssemblyInfoInputs.cache
+C:\Users\purvajag\source\repos\EmployeeApi\EmployeeApi\obj\Debug\netcoreapp2.1\EmployeeApi.AssemblyInfo.cs
+C:\Users\purvajag\source\repos\EmployeeApi\EmployeeApi\obj\Debug\netcoreapp2.1\EmployeeApi.RazorTargetAssemblyInfo.cache
+C:\Users\purvajag\source\repos\EmployeeApi\EmployeeApi\bin\Debug\netcoreapp2.1\EmployeeApi.pdb
+C:\Users\purvajag\source\repos\EmployeeApi\EmployeeApi\obj\Debug\netcoreapp2.1\EmployeeApi.dll
+C:\Users\purvajag\source\repos\EmployeeApi\EmployeeApi\obj\Debug\netcoreapp2.1\EmployeeApi.pdb
